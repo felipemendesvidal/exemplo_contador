@@ -1,0 +1,12 @@
+*{margin: 0;padding: 0;box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+img{display: block; width: 100%; }
+.cabecalho{ text-align: center;padding: 20px; text-transform: uppercase;}
+.box-container-blue{height: 100vh; background-color: rgb(236, 236, 236);}
+.box-principal-conteudo{ background-color: rgb(255, 255, 255); width: 500px;  margin: 0 auto; border-radius: 10px;box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.274);overflow: hidden; padding-bottom: 50px;}
+.foto {text-align: center;}
+.foodi{text-align: center; margin-top: 30px;}
+
+.msg{background-color: rgb(245, 245, 245); width: 100%; height: 300px; display: flex; justify-content: space-evenly; align-items: center; flex-direction: column; padding: 30px;}
+
+#txt-numero-inicio, #numero-fim, #numero-passo{ background-color: #bebebe; display: block; width: 300px; border:none; height: 25px; margin: 10px 0; border-radius: 5px; box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.274)}
+#btn_contat{padding: 10px 40px; margin-top: 10px; border-radius: 5px; border: 1px solid #000; cursor: pointer; font-weight: bold;}
